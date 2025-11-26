@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recipe-Book-Dashboard/static/css/main.1953b7af.css",
+    "main.js": "/Recipe-Book-Dashboard/static/js/main.2eccb274.js",
+    "static/js/453.6b572b7e.chunk.js": "/Recipe-Book-Dashboard/static/js/453.6b572b7e.chunk.js",
+    "index.html": "/Recipe-Book-Dashboard/index.html",
+    "main.1953b7af.css.map": "/Recipe-Book-Dashboard/static/css/main.1953b7af.css.map",
+    "main.2eccb274.js.map": "/Recipe-Book-Dashboard/static/js/main.2eccb274.js.map",
+    "453.6b572b7e.chunk.js.map": "/Recipe-Book-Dashboard/static/js/453.6b572b7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1953b7af.css",
+    "static/js/main.2eccb274.js"
+  ]
+}
